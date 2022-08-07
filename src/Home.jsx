@@ -8,7 +8,7 @@ const Home = () => {
         <>
             <Common 
                 name= 'A More On '
-                name2='Programmer Developer Designer' 
+                name2='Programmer Developer Analyst' 
                 imgsrc={web} 
                 visit="/about" 
                 btname="Get Started" 
