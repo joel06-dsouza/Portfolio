@@ -35,7 +35,7 @@ const Contact = () => {
             <div className="container contact_div">
                 <div className="row">
                     <div className="col-md-6 col-10 mx-auto">
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfSTwE6u7JIAK8Sae78vV9_opQgOToOFf88Q8_W0vvso4W--g/viewform?embedded=true" width="640" height="813" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe title="portfolio" src="https://docs.google.com/forms/d/e/1FAIpQLSfSTwE6u7JIAK8Sae78vV9_opQgOToOFf88Q8_W0vvso4W--g/viewform?embedded=true" width="640" height="813" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 {/*                        <form onSubmit={formSubmit}>
                         <div class="mb-3">
                                 <label for="exampleFormControlInput1" class="form-label">
